@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"playerprx"},
+{"type":"table","name":"kpop_idol","database":"playerprx","data":
+[
+{"Stage_name":"RM","Group_Name":"BTS","Position":"Leader\/Rapper","Birthdate":"1994-09-12","Country":"South Korea","Image":"https:\/\/static.wikia.nocookie.net\/kpop\/images\/d\/d3\/RM_Right_Place%2C_Wrong_Person_concept_photo_5.png\/revision\/latest\/scale-to-width-down\/1000?cb=20240430152732"},
+{"Stage_name":"Jennie","Group_Name":"BLACKPINK","Position":"Main Rapper\/Vocalist","Birthdate":"1996-01-16","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2016\/08\/Jennie-1024x683.jpg"},
+{"Stage_name":"Baekhyun","Group_Name":"EXO","Position":"Main Vocalist","Birthdate":"1992-05-06","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2017\/01\/BAEKHYUN-1-533x800.jpg"},
+{"Stage_name":"Lisa","Group_Name":"BLACKPINK","Position":"Main Dancer\/Rapper","Birthdate":"1997-03-27","Country":"Thailand","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2016\/08\/Lisa-1024x683.jpg"},
+{"Stage_name":"Taemin","Group_Name":"SHINee","Position":"Main Dancer\/Vocalist","Birthdate":"1993-07-18","Country":"South Korea","Image":"https:\/\/pbs.twimg.com\/media\/GJ1SAKYbsAAKeOw?format=jpg&name=4096x4096"},
+{"Stage_name":"Jisoo","Group_Name":"BLACKPINK","Position":"Lead Vocalist\/Visual","Birthdate":"1995-01-03","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2016\/08\/Jisoo-1-1024x683.jpg"},
+{"Stage_name":"Suga","Group_Name":"BTS","Position":"Rapper","Birthdate":"1993-03-09","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2016\/09\/Suga-2-1024x683.jpg"},
+{"Stage_name":"J-Hope","Group_Name":"BTS","Position":"Rapper\/Dancer","Birthdate":"1994-02-18","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2016\/09\/1C9F0B75-EAF7-4D1C-8510-90A844AB478E-900x597.jpeg"},
+{"Stage_name":"Irene","Group_Name":"Red Velvet","Position":"Leader\/Main Rapper","Birthdate":"1991-03-29","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2023\/10\/IRENE-534x800.jpg"},
+{"Stage_name":"Kai","Group_Name":"EXO","Position":"Main Dancer\/Lead Rapper","Birthdate":"1994-01-14","Country":"South Korea","Image":"https:\/\/kprofiles.com\/wp-content\/uploads\/2023\/06\/KAI-900x600.jpg"}
+]
+}
+]
